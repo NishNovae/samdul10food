@@ -1,6 +1,6 @@
 [project]
 name = "samdul10food"
-version = "0.1.0"
+version = "0.1.1"
 description = "Default template for PDM package"
 authors = [
     {name = "NishNovae", email = "raecrowned@gmail.com"},
@@ -9,7 +9,7 @@ dependencies = [
     "fastapi>=0.114.1",
     "uvicorn[standard]>=0.30.6",
 ]
-requires-python = "==3.8.*"
+requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
 
